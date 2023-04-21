@@ -12,9 +12,11 @@ namespace TestGithub
         public string SecretVariable2 { get; set; }
         public double SuperSecretVariable1 { get; set; }
         public int UltraSecretVariable { get; set; }
+        public static int EpicVariable { get; set; }
 
         public SuperSecretClassNameDontWorryAboutItLikeYoureNotGoingToGuessThisAnyways(string secretVariable1, string secretVariable2, double superSecretVariable1, int ultraSecretVariable)
         {
+            EpicVariable++;
             SecretVariable1 = secretVariable1;
             SecretVariable2 = secretVariable2;
             SuperSecretVariable1 = superSecretVariable1;
