@@ -20,5 +20,9 @@ namespace TestGithub
             _abc=abc;
         }
 
+        public string printABC()
+        {
+            return _abc;
+        }
     }
 }
