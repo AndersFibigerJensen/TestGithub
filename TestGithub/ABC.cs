@@ -15,9 +15,9 @@ namespace TestGithub
             set { _abc = value; }
         } 
 
-        public ABC()
+        public ABC(string abc)
         {
-
+            _abc=abc;
         }
 
     }
