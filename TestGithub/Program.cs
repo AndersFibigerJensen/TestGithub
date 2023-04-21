@@ -6,3 +6,6 @@ Console.WriteLine("Hello, World!");
 
 Class123 c123 = new Class123("Class123", "Epic");
 Console.WriteLine(c123.Name);
+
+ABC A = new ABC("A");
+Console.WriteLine(A.Abc);
