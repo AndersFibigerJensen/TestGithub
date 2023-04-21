@@ -11,3 +11,4 @@ SuperSecretClassNameDontWorryAboutItLikeYoureNotGoingToGuessThisAnyways sscndwai
 Console.WriteLine(sscndwailyngtgta1.UltraSecretVariable);
 
 Console.WriteLine("Test fra Adam");
+Console.WriteLine("Test fra Anders");
