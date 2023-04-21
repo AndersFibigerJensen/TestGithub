@@ -13,3 +13,5 @@ Console.WriteLine(sscndwailyngtgta1.UltraSecretVariable);
 Console.WriteLine("Test fra Adam");
 Console.WriteLine("Test fra Anders");
 Console.WriteLine("Test from Luna");
+
+Console.WriteLine("This is Sprint 1!");
