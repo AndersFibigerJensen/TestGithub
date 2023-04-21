@@ -13,4 +13,6 @@ Console.WriteLine(sscndwailyngtgta1.UltraSecretVariable);
 Console.WriteLine("Test fra Adam");
 Console.WriteLine("Test fra Anders");
 Console.WriteLine("Test from Luna");
+Console.WriteLine("Jello fellow,mellow");
+Console.WriteLine("Test from Luna");
 Console.WriteLine("jello,mellow,fellow");
