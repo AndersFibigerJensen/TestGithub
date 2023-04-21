@@ -6,7 +6,19 @@ using System.Threading.Tasks;
 
 namespace TestGithub
 {
-    internal class ABC
+    public class ABC
     {
+        private string _abc;
+        public string Abc
+        {
+            get { return _abc; }
+            set { _abc = value; }
+        } 
+
+        public ABC()
+        {
+
+        }
+
     }
 }
