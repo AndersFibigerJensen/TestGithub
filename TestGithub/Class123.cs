@@ -6,7 +6,14 @@ using System.Threading.Tasks;
 
 namespace TestGithub
 {
-    internal class Class123
+    public class Class123
     {
+        public string Name { get; set; }
+        public string Description { get; set; }
+        public Class123(string name, string description)
+        {
+            Name = name;
+            Description = description;
+        }
     }
 }
