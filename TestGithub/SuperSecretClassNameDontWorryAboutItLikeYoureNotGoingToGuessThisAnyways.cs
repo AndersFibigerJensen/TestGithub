@@ -11,9 +11,9 @@ namespace TestGithub
         public string SecretVariable1 { get; set; }
         public string SecretVariable2 { get; set; }
         public double SuperSecretVariable1 { get; set; }
-        public char UltraSecretVariable { get; set; }
+        public int UltraSecretVariable { get; set; }
 
-        public SuperSecretClassNameDontWorryAboutItLikeYoureNotGoingToGuessThisAnyways(string secretVariable1, string secretVariable2, double superSecretVariable1, char ultraSecretVariable)
+        public SuperSecretClassNameDontWorryAboutItLikeYoureNotGoingToGuessThisAnyways(string secretVariable1, string secretVariable2, double superSecretVariable1, int ultraSecretVariable)
         {
             SecretVariable1 = secretVariable1;
             SecretVariable2 = secretVariable2;
