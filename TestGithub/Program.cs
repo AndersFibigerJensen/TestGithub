@@ -10,3 +10,4 @@ Console.WriteLine(A.Abc);
 SuperSecretClassNameDontWorryAboutItLikeYoureNotGoingToGuessThisAnyways sscndwailyngtgta1 = new SuperSecretClassNameDontWorryAboutItLikeYoureNotGoingToGuessThisAnyways("Pog", "Pog2", 4.2, 2);
 Console.WriteLine(sscndwailyngtgta1.UltraSecretVariable);
 
+Console.WriteLine("Test fra Adam");
